@@ -1,3 +1,11 @@
+/*
+STUDENTS DATABASE
+Author: Kamil Koltowski
+Date: 2018
+Description: Simple tool made for managing database of students
+*/
+
+
 #include <cstdlib>
 #include <iostream>
 #include <conio.h>
